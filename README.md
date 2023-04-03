@@ -13,4 +13,10 @@ Contribution link - https://github.com/pydata/xarray/issues/7409#issuecomment-14
 
 ## 3. Issue - include/exclude lists in Dataset.expand_dims #7239
 ---------------------------------------------------------
+
 Contribution link - https://github.com/pydata/xarray/issues/7239#issuecomment-1494033789
+
+## 4. Issue - FacetGrid with coords error #7333
+-------------------------------------------------
+
+Contribution link - https://github.com/pydata/xarray/issues/7333#issuecomment-1494051039
